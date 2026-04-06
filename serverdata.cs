@@ -7,7 +7,7 @@
   "admins": [
     {
       "name": "Twig",
-      "user-id": "F11FF07F6E028B08"
+      "user-id": ""
     },
     {
       "name": "industry",
