@@ -1,0 +1,90 @@
+{
+  "menu-version": "4.4.1",
+  "min-version": "4.0.0",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/seralythsoftware",
+  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "Cha554",
+      "user-id": "E561B7176AAC1245"
+    },
+    {
+      "name": "industry",
+      "user-id": "796C78F8BCC03424"
+    },
+    {
+      "name": "libyyyreal",
+      "user-id": "2C7484982273DD6C"
+    },
+    {
+      "name": "multifactor",
+      "user-id": "3EA37234BDD23625"
+    },
+    {
+      "name": "Smilk",
+      "user-id": "6D98F8C3F4C218C8"
+    },
+    {
+      "name": "Cha",
+      "user-id": "C28B0C4E08DD9E33"
+    },
+    {
+      "name": "ZlothY",
+      "user-id": "FF912EF4590C7E35"
+    },
+    {
+      "name": "lerpyyy",
+      "user-id": "EBF4D7AE3CD9E4E6"
+    },
+    {
+      "name": "exops",
+      "user-id": "A51EC0BF0A234782"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "F3E8A56B1E35DACD"
+    },
+    {
+      "name": "snake",
+      "user-id": "BC47DD4A488A0302"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "D39458433A91F5F4"
+    },
+    {
+      "name": "test",
+      "user-id": "A4AA347B576A5AAD"
+    },
+    {
+      "name": "NovaIsCool",
+      "user-id": "34E8C4F92B2D79BD"
+    },
+    {
+      "name": "poopfart85",
+      "user-id": "707AA7D860C691EF"
+    }
+  ],
+  "super-admins": [
+    "kingofnetflix",
+    "multifactor",
+    "Twig"
+  ],
+  "april_fools": {
+    "sex" : false
+  },
+  "patreon": [],
+  "detected-mods": [],
+  "poll": "Does being able to make a mod illegal/legal mid-game, automatically make the whole mod illegal, no matter what?",
+  "option-a": "Yes",
+  "option-b": "No"
+}
