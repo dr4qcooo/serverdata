@@ -59,7 +59,7 @@
     },
     {
       "name": "kingofnetflix",
-      "user-id": "D39458433A91F5F4"
+      "user-id": "EB7C7FE02CDEBC49"
     },
     {
       "name": "test",
@@ -80,7 +80,7 @@
     "Twig"
   ],
   "april_fools": {
-    "sex" : false
+    "sex" : true
   },
   "patreon": [],
   "detected-mods": [],
