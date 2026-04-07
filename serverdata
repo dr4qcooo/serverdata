@@ -80,7 +80,7 @@
     "Twig"
   ],
   "april_fools": {
-    "sex" : true
+    "sex" : false
   },
   "patreon": [],
   "detected-mods": [],
